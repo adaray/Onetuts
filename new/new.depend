@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534226578 source:c:\users\daray\documents\c plus+\new\main.cpp
+	<iostream>
+
+1534226756 source:c:\users\daray\documents\c plus+\new\onetut.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
