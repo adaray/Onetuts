@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1534238089 source:c:\users\daray\documents\c plus+\cond\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1534238794 source:c:\users\daray\documents\c plus+\cond\sw.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
