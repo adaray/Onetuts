@@ -26,6 +26,8 @@ int main()
         cout<<"Salama kadheh"<< endl;
 
     }
+    int V = (21>20)? 100 : 10;//Variable V set against boolean
+    cout <<V<<endl;
 
     return 0;
 }
